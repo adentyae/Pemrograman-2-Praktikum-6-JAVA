@@ -1,4 +1,4 @@
-import java.io*;
+import java.io.*;
 
 public class GetInputReader2{
 	public static void main(String[] args) throws IOException{
